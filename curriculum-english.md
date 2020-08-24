@@ -77,19 +77,19 @@ Docker |
 **Previsão de formatura** 06/2022
 **Cidade** Rio De Interests Janeiro
 
-## Tecnologia da Informação - Cursos
+## Cursos
 **Rocketseat - Bootcamp:** Rocketseat é uma plataforma de educaçãoNodeJs tecnológica, focada na Stack Javascript:
  * Tecnologías: Node JS - React JS - React Native
  * Site: https://rocketseat.com.br
-<br>
-**DevSchool:** DevSchool é uma iniciativa criada pelas empresas Mobicare e Akross para permitir o desenvolvimento de talentos iniciais na área de tecnologia, fornecendo toda a base de conhecimentos exigida pelas empresas.
+
+**DevSchool:** DevSchool é uma iniciativa criada pelas empresas Mobicare e Akross para permitir o desenvolvimento de talentos iniciais na área de tecnologia, fornecendo toda a base de conhecimentos exigida pelas empresas. 
  * Tecnologías: 
-   - Cultura Ágil, Arquitetura e Engenharia de Software
-   - Orientação a objetos com Java e Spring Boot
-   - Front-End com JavaScript (React/ES6)
-   - Banco de dados com MySQL e DynamoDB
+   - Cultura Ágil, Arquitetura e Engenharia de Software 
+   - Orientação a objetos com Java e Spring Boot 
+   - Front-End com JavaScript (React/ES6) 
+   - Banco de dados com MySQL e DynamoDB 
  * Site: https://www.mobicare.com.br/devschool
-<br>
-**Gama Academy:** A Gama Academy é uma plataforma de educação tecnológica, focada no desenvolvedor Web.
- * Tecnologías: HTML5 - CSS3 - -Bootstrap - React JS - Javascript - Git
- * Site: https://gama.academy/experience/
+
+**Gama Academy:** A Gama Academy é uma plataforma de educação tecnológica, focada no desenvolvedor Web. 
+ * Tecnologías: HTML5 - CSS3 - -Bootstrap - React JS - Javascript - Git 
+ * Site: https://gama.academy/experience/ 
