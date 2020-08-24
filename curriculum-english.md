@@ -93,3 +93,11 @@ Docker |
 **Gama Academy:** A Gama Academy é uma plataforma de educação tecnológica, focada no desenvolvedor Web. 
  * Tecnologías: HTML5 - CSS3 - -Bootstrap - React JS - Javascript - Git 
  * Site: https://gama.academy/experience/ 
+ 
+
+<br>
+
+**Ajude-me**
+```
+Encontrou algum erro nas informações? Sentiu falta de algo? Abre uma issue!
+```
